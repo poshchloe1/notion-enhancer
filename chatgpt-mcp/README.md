@@ -34,6 +34,10 @@ npm install
 
 Requires Node.js 18+ (uses the built-in `fetch`).
 
+> **Want Claude to install it for you?** Copy a ready-made prompt from
+> [`INSTALL_PROMPT.md`](./INSTALL_PROMPT.md) and paste it into Claude Desktop /
+> Claude Code — it will clone, `npm install`, and wire up the config for you.
+
 ---
 
 ## Use it in the Claude **Desktop** app (stdio)
